@@ -41,8 +41,5 @@ El equipo de inversión de la UAX está en búsqueda de empresas americanas reci
 1. **Entorno:**
    - Asegúrate de tener instaladas las bibliotecas necesarias (pandas, sqlalchemy, etc.).
 
-2. **Ejecución del Script:**
-   - Ejecuta el script de Python para realizar el flujo de ETL y análisis.
 
-```bash
-python tu_script.py
+
