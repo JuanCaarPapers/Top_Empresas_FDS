@@ -8,3 +8,4 @@ ENV POSTGRES_PASSWORD password
 
 # Expone el puerto por defecto de PostgreSQL
 EXPOSE 5432
+#
